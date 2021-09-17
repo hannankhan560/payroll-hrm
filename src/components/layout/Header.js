@@ -1,6 +1,6 @@
 import React from 'react'
 import './header.css';
-import logo from '../images/logo-white.png'
+import logo from '../../images/logo-white.png'
 import { FaUserCircle } from 'react-icons/fa';
 
 

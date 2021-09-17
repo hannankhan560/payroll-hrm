@@ -1,0 +1,21 @@
+[debug] [2021-09-15T15:21:15.308Z] ----------------------------------------------------------------------
+[debug] [2021-09-15T15:21:15.310Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Osman Mirza\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-09-15T15:21:15.311Z] CLI Version:   9.18.0
+[debug] [2021-09-15T15:21:15.311Z] Platform:      win32
+[debug] [2021-09-15T15:21:15.311Z] Node Version:  v14.17.5
+[debug] [2021-09-15T15:21:15.312Z] Time:          Wed Sep 15 2021 08:21:15 GMT-0700 (Pacific Daylight Time)
+[debug] [2021-09-15T15:21:15.312Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-09-15T15:21:15.319Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-09-15T15:21:15.319Z] > authorizing via signed-in user (hannan.khan.560@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\hannan\react apps\payroll-management
+

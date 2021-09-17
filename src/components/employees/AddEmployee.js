@@ -70,4 +70,6 @@ const AddEmployee = ({ onAddEmployee }) => {
     )
 }
 
+
+
 export default AddEmployee

@@ -1,0 +1,8 @@
+services > seprate methods for employees, inventories, expenses >for firebase. 
+
+firebase. 
+
+class based destruction based in addemployees.js (this.state)
+
+
+event.preventDefault(); // will stop the refresh
